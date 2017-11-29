@@ -1,7 +1,5 @@
-﻿Folder Git
+Folder Git
 
 Edit folder git 1
 
 Edit folder git 2 - Trên server Github
-
-Edit folder git 3 - Để Backup
